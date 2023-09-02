@@ -3,7 +3,6 @@
 
 ## 💬 Ask me about
 - Frontend web development (Angular)
-- Deep Learning and Machine Learning
 - Data analysis (python)
 
 ## 📅 Hobbies
@@ -11,8 +10,6 @@
 - Watch anime and movies
 - Reading books and novels
 
-## 💻 Current project
-- [Online store](https://github.com/NourhanMA/store)
 
 ## 📚 Learning
-- Devops at https://cloudnativebasecamp.com/
+- NodeJs at https://cloudnativebasecamp.com/

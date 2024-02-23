@@ -3,7 +3,6 @@
 
 ## 💬 Ask me about
 - Frontend web development (Angular)
-- Data analysis (python)
 
 ## 📅 Hobbies
 - Solve programming problems at Codeforces, LeetCode
@@ -12,4 +11,5 @@
 
 
 ## 📚 Learning
-- NodeJs at https://cloudnativebasecamp.com/
+- NodeJs
+- React

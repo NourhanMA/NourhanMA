@@ -5,7 +5,7 @@
 - Frontend web development (Angular)
 
 ## 📅 Hobbies
-- Solve programming problems at Codeforces, LeetCode
+- Solve programming problems
 - Watch anime and movies
 - Reading books and novels
 
